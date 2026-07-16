@@ -1,6 +1,6 @@
 # 169 - QR Code Specifications
 
-### CBOR Identity Data in QR Code
+### CWT Identity Data in QR Code
 
 **Tag**: 169 (identity-data)
 
