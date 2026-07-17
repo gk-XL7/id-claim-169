@@ -12,7 +12,7 @@
 
 **IANA Registration**: [IANA CWT Registry](https://www.iana.org/assignments/cwt/cwt.xhtml) (Search for: 169)
 
-**Version:** 1.2.1
+**Version:** 1.2.0.1
 
 **Release Date**: 5th May, 2026
 
