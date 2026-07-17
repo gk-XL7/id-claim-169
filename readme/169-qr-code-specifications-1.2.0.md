@@ -1,6 +1,6 @@
 # 169 - QR Code Specifications 1.2.0
 
-### CBOR Identity Data in QR Code
+### QR Code
 
 **Tag**: 169 (identity-data)
 
@@ -14,11 +14,11 @@
 
 **Version:** 1.2.0 <[Click here for latest version 1.2.1](https://docs.mosip.io/1.2.0/readme/standards-and-specifications/mosip-standards/169-qr-code-specification)>
 
-**Release Date**: 27th January, 2026
+**Release Date**: 27th January, 2025
 
 ### 1. Introduction
 
-This document specifies an enhanced version of the generic data structure and encoding mechanism for storing the Identity Data of a registered person using any ID platform, along with the corresponding transport encoding mechanism in a machine-readable optical format (QR).
+This document specifies an enhanced version of the generic data structure and encoding mechanism for storing the Identity Data of a registered person using any ID platform, along with the corresponding transport encoding mechanism in a machine-readable optical format (QR code).
 
 This enhanced version is the outcome of the revival of the Claim 169 Working Group in September 2025, which undertook a collaborative effort to refine and extend the specification. As part of the detailed discussions and brainstorming sessions within the working group, **additional attributes (19–23)** were introduced to strengthen applicability, usability, and interoperability across diverse identity ecosystems; bring in multi-language support (for _Full Name_), along with certain updates on [guidelines](https://docs.mosip.io/1.2.0/readme/standards-and-specifications/mosip-standards/169-qr-code-specification#guidelines), [standard CWT attributes](https://docs.mosip.io/1.2.0/readme/standards-and-specifications/mosip-standards/169-qr-code-specification#note-on-standard-cwt-attributes), [standard COSE attributes](https://docs.mosip.io/1.2.0/readme/standards-and-specifications/mosip-standards/169-qr-code-specification#note-on-standard-cose-attributes) (for public key discovery), [credential status](https://docs.mosip.io/1.2.0/readme/standards-and-specifications/mosip-standards/169-qr-code-specification#note-on-status-of-credential) and [security considerations](https://docs.mosip.io/1.2.0/readme/standards-and-specifications/mosip-standards/169-qr-code-specification#id-4.-security-considerations). **For details, refer to the section titled, "**[**What Changed**](https://docs.mosip.io/1.2.0/readme/standards-and-specifications/mosip-standards/169-qr-code-specification#id-8.-what-changed)**" below.**
 
