@@ -1,6 +1,6 @@
 # 169 - QR Code Specifications
 
-### QR Code
+### CWT QR Code
 
 **Tag**: 169 (identity-data)
 
@@ -14,11 +14,11 @@
 
 **Version:** 1.2.1
 
-**Release Date**: 5th May, 2025
+**Release Date**: 5th May, 2024
 
 ### 1. Introduction
 
-This document specifies an **enhanced version** of the generic data structure and encoding mechanism for storing the Identity Data of a registered person using any ID platform, along with the corresponding transport encoding mechanism in a machine-readable optical format (QR code).
+This document specifies an **enhanced version** of the generic data structure and encoding mechanism for storing the Identity Data of a registered person using any ID platform, along with the corresponding transport encoding mechanism in a machine-readable optical format (QR).
 
 This enhanced version is the outcome of the revival of the Claim 169 Working Group discussions following the release of [v1.2.0](https://docs.mosip.io/1.2.0/readme/standards-and-specifications/mosip-standards/169-qr-code-specifications-1.2.0) in January 2026, which undertook a collaborative effort to refine and extend the specification.
 
