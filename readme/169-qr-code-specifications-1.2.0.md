@@ -1,6 +1,6 @@
 # 169 - QR Code Specifications 1.2.0
 
-### CBOR Identity Data in QR Code
+### CWT Identity Data in QR Code
 
 **Tag**: 169 (identity-data)
 
@@ -8,7 +8,7 @@
 
 **Semantics**: Identity Data of a Person in QR-Code
 
-**Point of Contact**: Resham Chugani ([resham@mosip.io](mailto:resham@mosip.io))
+**Point of Contact**: Resham Chugani and the ([resham@mosip.io](mailto:resham@mosip.io))
 
 **IANA Registration**: [IANA CWT Registry](https://www.iana.org/assignments/cwt/cwt.xhtml) (Search for: 169)
 

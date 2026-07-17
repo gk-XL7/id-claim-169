@@ -12,7 +12,7 @@
 
 **IANA Registration**: [IANA CWT Registry](https://www.iana.org/assignments/cwt/cwt.xhtml) (Search Key: 169)
 
-**Version:** 1.0.0
+**Version:** 2.0.0
 
 ### 1. Introduction
 
